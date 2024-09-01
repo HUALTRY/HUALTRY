@@ -1,4 +1,10 @@
-## Hi there 👋
+## 有朋自远方来，不亦乐乎
+
+![lighthouse](image\lighthouse.png "lighthouse")
+
+##### On the eve of a storm, everything is always quiet
+
+##### ——Don't be afraid, let's face it together.
 
 <!--
 **HUALTRY/HUALTRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
