@@ -1,6 +1,6 @@
 ## 有朋自远方来，不亦乐乎
 
-![lighthouse](HUALTRY/image/lighthouse.png "lighthouse")
+![lighthouse](https://github.com/HUALTRY/HUALTRY/blob/main/image/lighthouse.png)
 
 ##### On the eve of a storm, everything is always quiet
 
